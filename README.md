@@ -26,7 +26,7 @@ The work focuses on analytical reasoning and business interpretation rather than
 
 ## Dataset Information
 
-- **Source:** Kaggle – [text](https://www.kaggle.com/datasets/bhanupratapbiswas/customer-behavior-analysis?resource=download) 
+- **Source:** Kaggle – [Dataset Link](https://www.kaggle.com/datasets/bhanupratapbiswas/customer-behavior-analysis?resource=download) 
 - **Time Period Covered:** January 1, 2020 – September 15, 2023  
 - **Data Type:** Transactional ecommerce data (customer demographics, product categories, payment methods, churn status, returns, purchase amounts)
 
@@ -92,7 +92,7 @@ The emphasis was placed on analytical interpretation and identifying potential b
 
 **Monika**
 
-- LinkedIn: [text](https://www.linkedin.com/in/monika-nahadiya-a99558289/)
+- LinkedIn: [Monikanahadiya](https://www.linkedin.com/in/monika-nahadiya-a99558289/)
 - Email: monikanahadiya@gmail.com
 
 ---
